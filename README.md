@@ -4,21 +4,29 @@
 
 # 👋 Olá! Eu sou a Thaís 🎀!
 
-💻 Sou uma desenvolvedora focada em criar soluções eficientes e escaláveis.
+💻 Sou uma desenvolvedora focada em criar soluções eficientes e escaláveis, enquanto transformo ideias em códigos...
 
 🚀 Atualmente, estou focada em desenvolver projetos com **Java** e explorar novas soluções em **Análise de Dados com Python**.
 
 🌐 Fique à vontade para explorar meus repositórios e projetos!
 
 ---
+### 📫 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thaissutil/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn - Thaís Sutil"/>
+</a>
+  
+  <a href="mailto:thaissutil.dev@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=10" alt="Email - Thaís Sutil"/>
+</a>
+</p>
+
+---
 
 ### 🛠️ Minhas Ferramentas e Habilidades
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
 
 ---
 
@@ -39,8 +47,4 @@
 </picture>
 
 ---
-### 📫 Conecte-se Comigo
 
-- **LinkedIn:** https://www.linkedin.com/in/thaissutil
-- **Portfólio:** https://vercel.com/thaissutil
-- **Email:** thaissutil.dev@gmail.com
