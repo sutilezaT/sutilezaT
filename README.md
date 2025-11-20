@@ -6,7 +6,7 @@
 
 💻 Sou uma desenvolvedora focada em criar soluções eficientes e escaláveis.
 
-🚀 Atualmente, estou focado em desenvolver projetos com **Java** e explorar novas soluções em **Análise de Dados com Python**.
+🚀 Atualmente, estou focada em desenvolver projetos com **Java** e explorar novas soluções em **Análise de Dados com Python**.
 
 🌐 Fique à vontade para explorar meus repositórios e projetos!
 
@@ -32,7 +32,11 @@
 ---
 ### 🔥 Minha Sequência de Contribuição
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sutilezaT/sutilezaT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sutilezaT/sutilezaT/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sutilezaT/SutilezaT/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ### 📫 Conecte-se Comigo
