@@ -35,9 +35,9 @@
 <div align="center">
   ### 📊 Minhas Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=sutilezaT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sutilezaT&layout=compact&theme=dracula)
+| Estatísticas Gerais | Linguagens Mais Usadas |
+| :---: | :---: |
+| ![Estatísticas](https://github-readme-stats-fast.vercel.app/api?username=sutilezaT&show_icons=true&theme=dracula&count_private=true) | ![Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sutilezaT&layout=compact&theme=dracula) |
 </div>
 
 ---
