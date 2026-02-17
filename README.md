@@ -33,8 +33,11 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutilezaT&show_icons=true&hide_border=true&title_color=ff80a6&icon_color=ff80a6&text_color=fff&bg_color=0d1117"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutilezaT&layout=compact&langs_count=6&hide_border=true&title_color=ff80a6&icon_color=ff80a6&text_color=fff&bg_color=0d1117"/>
+  ### 📊 Minhas Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=sutilezaT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sutilezaT&layout=compact&theme=dracula)
 </div>
 
 ---
